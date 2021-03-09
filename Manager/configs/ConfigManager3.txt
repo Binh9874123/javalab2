@@ -1,0 +1,8 @@
+Reader = Reader
+Writer = Writer
+Executor1 = ru.spbstu.timofeev.workers.Substitutor
+ConfigReader = ..\configs\work\my_reader.txt
+ConfigWriter = ..\configs\work\my_writer.txt
+ConfigExecutor1 = ..\configs\work\foreign_executor.txt
+input = ..\input.txt
+output = ..\output.txt

@@ -1,0 +1,10 @@
+Reader = Reader
+Writer = ru.spbstu.timofeev.workers.FileWriter
+Executor1 = Executor
+Executor2 = Executor
+ConfigReader = ..\configs\work\my_reader.txt
+ConfigWriter = ..\configs\work\foreign_writer.txt
+ConfigExecutor1 = ..\configs\work\my_executor1.txt
+ConfigExecutor2 = ..\configs\work\my_executor2.txt
+input = ..\input.txt
+output = ..\output.txt

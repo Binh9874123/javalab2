@@ -1,0 +1,1 @@
+Table = C:\Users\Admin\IdeaProjects\lab2\Manager\configs\work\table.txt

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Parse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Parse_jar</output-path>
+    <root id="archive" name="Parse.jar">
+      <element id="module-output" name="Parse" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/LogMsg.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

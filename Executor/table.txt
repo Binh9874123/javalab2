@@ -1,0 +1,7 @@
+a x
+b d
+l c
+c l
+n v
+k t
+a x
